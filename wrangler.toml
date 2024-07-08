@@ -1,14 +1,14 @@
-name = "sgoracle" # todo
+name = "sgbytevirt" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern = "orclsg.reinzvpn.my.id"
+pattern = "btvsg.reinzvpn.my.id"
 custom_domain = true
 [[routes]]
-pattern = "support.zoom.us.orclsg.reinzvpn.my.id"
+pattern = "support.zoom.us.btvsg.reinzvpn.my.id"
 custom_domain = true
 
 [vars]
