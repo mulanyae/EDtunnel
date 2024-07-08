@@ -5,7 +5,7 @@ import { connect } from 'cloudflare:sockets';
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
 let userID = 'd342d11e-d424-4583-b36e-524ab1f0afa4';
 
-const พร็อกซีไอพีs = ['138.2.104.102', '168.138.171.185', '213.35.98.64'];
+const พร็อกซีไอพีs = ['89.34.227.133'];
 
 // if you want to use ipv6 or single พร็อกซีไอพี, please add comment at this line and remove comment at the next line
 let พร็อกซีไอพี = พร็อกซีไอพีs[Math.floor(Math.random() * พร็อกซีไอพีs.length)];
@@ -732,7 +732,7 @@ ${วเลสSec}\n
 		<li id="sec">..</li>
   	</ul>
 	<br />
-	<p class="animation fw-bold text-danger mt-2"><i style="height: 30px;">VLESS FREE CLOUDFLARE</i></p>
+	<p class="animation fw-bold text-danger mt-2"><i style="height: 30px;">VLESS FREE CLOUDFLARE by REINZ</i></p>
 </div>`;
 	// HTML Head with CSS and FontAwesome library
 	const htmlHead = `
